@@ -1,0 +1,11 @@
+Model Information:
+* title:	Miles M.57 Aerovan - Stormworks
+* source:	https://sketchfab.com/3d-models/miles-m57-aerovan-stormworks-63b660ab549249fdacf991c3915efc41
+* author:	Thales (https://sketchfab.com/ThalesMML)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Miles M.57 Aerovan - Stormworks" (https://sketchfab.com/3d-models/miles-m57-aerovan-stormworks-63b660ab549249fdacf991c3915efc41) by Thales (https://sketchfab.com/ThalesMML) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
